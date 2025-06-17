@@ -1,0 +1,52 @@
+StateID|StateCode|StateName|TimeZone|RegionID
+1|AL|Alabama|CST|5
+2|AK|Alaska|AKST|4
+3|AZ|Arizona|MST|5
+4|AR|Arkansas|CST|5
+5|CA|California|PST|6
+6|CO|Colorado|MST|4
+7|CT|Connecticut|EST|2
+8|DE|Delaware|EST|3
+9|FL|Florida|EST|5
+10|GA|Georgia|EST|5
+11|HI|Hawaii|HST|4
+12|ID|Idaho|MST|4
+13|IL|Illinois|CST|1
+14|IN|Indiana|EST|1
+15|IA|Iowa|CST|1
+16|KS|Kansas|CST|1
+17|KY|Kentucky|CST|1
+18|LA|Louisiana|CST|5
+19|ME|Maine|EST|2
+20|MD|Maryland|EST|3
+21|MA|Massachusetts|EST|2
+22|MI|Michigan|EST|1
+23|MN|Minnesota|CST|1
+24|MS|Mississippi|CST|5
+25|MO|Missouri|CST|1
+26|MT|Montana|MST|4
+27|NE|Nebraska|CST|1
+28|NV|Nevada|PST|6
+29|NH|New Hampshire|EST|2
+30|NJ|New Jersey|EST|3
+31|NM|New Mexico|MST|5
+32|NY|New York|EST|3
+33|NC|North Carolina|EST|5
+34|ND|North Dakota|CST|1
+35|OH|Ohio|EST|1
+36|OK|Oklahoma|CST|1
+37|OR|Oregon|PST|4
+38|PA|Pennsylvania|EST|3
+39|RI|Rhode Island|EST|2
+40|SC|South Carolina|EST|5
+41|SD|South Dakota|CST|1
+42|TN|Tennessee|CST|5
+43|TX|Texas|CST|5
+44|UT|Utah|MST|4
+45|VT|Vermont|EST|2
+46|VA|Virginia|EST|5
+47|WA|Washington|PST|4
+48|WV|West Virginia|EST|5
+49|WI|Wisconsin|CST|1
+50|WY|Wyoming|MST|4
+51|DC|District of Columbia|EST|5
