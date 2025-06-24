@@ -1,0 +1,7 @@
+# Para começar com as informações mais importantes, você pode se conectar ao banco de dados SQL público do SpaceParts com as seguintes credenciais para uso pessoal e não comercial:
+
+Server: te3-training-eu.database.windows.net
+Database: SpacePartsCoDW
+Username: dwreader
+Password: TE3#reader! 
+
