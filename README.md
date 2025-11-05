@@ -20,3 +20,12 @@ Conexão com banco de dados SQL Azure que pode ser utilizada como fonte de dados
 
 https://tabulareditor.com/blog/reintroducing-the-spaceparts-dataset
 
+### Controle Financeiro
+
+Arquivos CSV com dados financeiros fictícios.
+
+### DP-600
+
+Arquivos dos laboratórios do curso preparatório para certificação DP-600: Microsoft Fabric Analytics Engineer.
+
+https://github.com/MicrosoftLearning/mslearn-fabric/tree/main/Instructions/Labs
