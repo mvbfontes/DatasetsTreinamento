@@ -1,0 +1,88 @@
+nome_liga_padronizado,pais_liga,genero_liga,nome_liga
+Liga Profesional de Fútbol,Argentina,Masculino,Liga Profesional de Fútbol
+Liga Profesional de Fútbol,Argentina,Masculino,Primera División
+MLS,Estados Unidos,Masculino,MLS
+MLS,Estados Unidos,Masculino,Major League Soccer
+NWSL,Estados Unidos,Feminino,NWSL
+Pro League,Belgica,Masculino,1A Pro League
+Superliga,Dinamarca,Masculino,3F Superliga
+Superliga,Dinamarca,Masculino,Superliga
+Premier League,Inglaterra,Masculino,Premier League
+EFL Championship,Inglaterra,Masculino,Championship
+EFL Championship,Inglaterra,Masculino,EFL Championship
+EFL League One,Inglaterra,Masculino,EFL League One
+EFL League One,Inglaterra,Masculino,League One
+EFL League Two,Inglaterra,Masculino,EFL League Two
+EFL League Two,Inglaterra,Masculino,League Two
+Superliga Feminina,Inglaterra,Feminino,Barclays WSL
+D1 Arkema,França,Feminino,Arkema PL
+Ligue 1,França,Masculino,Ligue 1
+Ligue 1,França,Masculino,Ligue 1 McDonald's
+Ligue 2,França,Masculino,Ligue 2
+Ligue 2,França,Masculino,Ligue 2 BKT
+Bundesliga,Alemanha,Masculino,Bundesliga
+Bundesliga 2,Alemanha,Masculino,2. Bundesliga
+Bundesliga 2,Alemanha,Masculino,Bundesliga 2
+3 Liga,Alemanha,Masculino,3. Liga
+Frauen-Bundesliga,Alemanha,Feminino,GPFBL
+SSE Airtricity League Premier Division,Irlanda,Masculino,Premier Division
+SSE Airtricity League Premier Division,Irlanda,Masculino,SSE Airtricity PD
+Serie A,Italia,Masculino,Serie A
+Serie A,Italia,Masculino,Serie A Enilive
+Serie B,Italia,Masculino,Serie B
+Serie B,Italia,Masculino,Serie BKT
+Série A Feminina,Itália,Feminino,Calcio A Femminile
+Eredivisie,Holanda,Masculino,Eredivisie
+Eredivisie Feminina,Holanda,Feminino,Nederland Vrouwen Liga
+Eliteserien,Noruega,Masculino,Eliteserien
+Ekstraklasa,Polonia,Masculino,Ekstraklasa
+Ekstraklasa,Polonia,Masculino,PKO BP Ekstraklasa
+Liga Portugal,Portugal,Masculino,Liga Portugal
+Liga Portugal,Portugal,Masculino,Primeira Liga
+Liga Portugal Feminina,Portugal,Feminino,Liga Portugal Feminino
+Liga I,Romenia,Masculino,Liga I
+Liga I,Romenia,Masculino,SUPERLIGA
+Scottish Premiership,Escocia,Masculino,Premiership
+Scottish Premiership,Escocia,Masculino,Scottish Prem
+Scottish Women's League,Escocia,Feminino,Scottish Women's League
+La Liga,Espanha,Masculino,LALIGA EA SPORTS
+La Liga,Espanha,Masculino,La Liga
+La Liga 2,Espanha,Masculino,LALIGA HYPERMOTION
+La Liga 2,Espanha,Masculino,La Liga 2
+Liga F,Espanha,Feminino,Liga F
+Allsvenskan,Suecia,Masculino,Allsvenskan
+Sverige Liga,Suecia,Feminino,Sverige Liga
+Superliga,Suiça,Masculino,CSSL
+Superliga,Suiça,Feminino,Schweizer Damen Liga
+Super Lig,Turquia,Masculino,Süper Lig
+Super Lig,Turquia,Masculino,Trendyol Süper Lig
+Saudi Pro League,Arabia Saudita,Masculino,ROSHN Saudi League
+K League,Coreia do Sul,Masculino,K League 1
+Chinese Super League,China,Masculino,CSL
+Hero Indian Super Legue,India,Masculino,ISL
+A-League,Australia,Masculino,A-League
+A-League,Australia,Masculino,A-League Men
+Liga Colombia,Colombia,Masculino,Categoría Primera A
+Liga Colombia,Colombia,Masculino,Liga Colombia
+Liga Tcheca,Republica Tcheca,Masculino,Ceska Liga Žen
+Liga Tcheca,Republica Tcheca,Masculino,Česká Liga
+Liga Tcheca,Republica Tcheca,Masculino,First League
+Liga do Chipre,Chipre,Masculino,1. Division
+Liga do Chipre,Chipre,Masculino,Liga Cyprus
+Liga da Bolivia,Bolivia,Masculino,División de Fútbol Profesional
+Liga da Finlandia,Finlandia,Masculino,Finnliiga
+Liga da Finlandia,Finlandia,Masculino,Veikkausliiga
+Liga da Grecia,Grecia,Masculino,Hellas Liga
+Liga da Croacia,Croacia,Masculino,Hrvatska nogometna liga
+Liga da Croacia,Croacia,Masculino,Liga Hrvatska
+Liga do Azerbaijao,Azerbaijao,Masculino,Liga Azerbaijan
+Libertadores,America do Sul,Masculino,Libertadores
+Liga do Equador,Equador,Masculino,Liga Pro
+Liga da Hungria,Hungria,Masculino,Magyar Liga
+Liga da Hungria,Hungria,Masculino,Nemzeti Bajnokság I
+Liga do Chile,Chile,Masculino,Primera Division
+Copa Sul-Americana,America do Sul,Masculino,Sudamericana
+Brasileirao,Brasil,Masculino,Série A
+Liga da Ucrania,Ucrania,Masculino,Ukrayina Liha
+Liga do Emirados Arabes,Emirados Arabes,Masculino,United Emirates League
+Ö. Bundesliga,Austria,Masculino,Ö. Bundesliga
